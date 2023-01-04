@@ -1,1 +1,2 @@
-TinDog Starting Files
+TinDog website
+HTML , CSS and bootstrap
